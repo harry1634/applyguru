@@ -1,0 +1,44 @@
+{
+  "confirmations": [
+    {
+      "id": "f5cfae65-5cea-4fb7-b32c-6e8e94f3c13f",
+      "activityId": "0ed73131-4614-41a7-b8b5-2b2d2a694b7b",
+      "eventId": "248b53ac-70f1-4158-8be1-ad8af77a4d84",
+      "participantEmail": "saiteja242004@gmail.com",
+      "status": "confirmed",
+      "confirmedAt": "2026-05-09T05:42:14.520Z"
+    },
+    {
+      "id": "2df1a78b-bc59-49be-b344-f249e5b72f58",
+      "activityId": "da63b0d5-1ce5-439b-b7cc-d77953f12eb2",
+      "eventId": "248b53ac-70f1-4158-8be1-ad8af77a4d84",
+      "participantEmail": "saiteja242004@gmail.com",
+      "status": "confirmed",
+      "confirmedAt": "2026-05-09T05:42:18.713Z"
+    },
+    {
+      "id": "c17a5e3f-2ac0-4780-aae5-3eb398273e37",
+      "activityId": "d5e72848-50c6-43b5-97f5-e0717df28ec3",
+      "eventId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "participantEmail": "bujjilaxmi010979@gmail.com",
+      "status": "confirmed",
+      "confirmedAt": "2026-05-09T12:33:34.345Z"
+    },
+    {
+      "id": "20cdbcff-438c-4857-a504-cafce012bb5e",
+      "activityId": "5ee9474f-0759-43de-9a48-edc7557df617",
+      "eventId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "participantEmail": "pathivadasaiteja.22.csd@anits.edu.in",
+      "status": "confirmed",
+      "confirmedAt": "2026-05-19T12:54:08.468Z"
+    },
+    {
+      "id": "fcd07af9-bcac-4d47-bac6-9308ec41f32c",
+      "activityId": "1a0a19c7-8875-4e05-8cab-6f0242f45b5c",
+      "eventId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "participantEmail": "saiteja242004@gmail.com",
+      "status": "confirmed",
+      "confirmedAt": "2026-05-29T13:34:25.775Z"
+    }
+  ]
+}

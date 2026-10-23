@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "116218801949727845110",
+      "name": "Sai Teja",
+      "email": "saiteja242004@gmail.com",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJlByC1sl3yY6yav0eGfOzF-wD5mKXpIH3VH6CAyHVqZCiuQ7cS=s96-c",
+      "provider": "google",
+      "role": "participant",
+      "firstLoginAt": "2026-05-07T10:12:55.476Z",
+      "lastLoginAt": "2026-05-29T13:33:04.231Z",
+      "loginCount": 15,
+      "userType": "student",
+      "username": "saiteja24",
+      "phone": "+91630556944",
+      "college": "VIT Vellore",
+      "degree": "B.Tech / B.E.",
+      "graduationYear": "2026",
+      "city": "vzm",
+      "state": "Andhra Pradesh",
+      "onboardingComplete": true,
+      "stats": {
+        "eventsAttended": 3,
+        "applicationsSent": 2,
+        "certificatesEarned": 0,
+        "volunteerHours": 0,
+        "eventsCreated": 0,
+        "jobsPosted": 0,
+        "sessionsGiven": 0
+      }
+    },
+    {
+      "id": "110649787071711853310",
+      "name": "A22126551103 PATHIVADASAITEJA",
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIqohxEmbQqcNVObaFGGvilf2qj-wekLqBW0suxKE-e_XXLIg=s96-c",
+      "provider": "google",
+      "role": "organizer",
+      "firstLoginAt": "2026-05-07T10:17:39.747Z",
+      "lastLoginAt": "2026-05-29T13:33:31.455Z",
+      "loginCount": 22,
+      "userType": "organization",
+      "orgName": "NxtWise",
+      "orgType": "Company / Startup",
+      "orgContact": "6305569442",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "orgWebsite": "",
+      "username": "",
+      "onboardingComplete": true,
+      "stats": {
+        "eventsAttended": 3,
+        "applicationsSent": 5,
+        "certificatesEarned": 0,
+        "volunteerHours": 0,
+        "eventsCreated": 2,
+        "jobsPosted": 0,
+        "sessionsGiven": 0
+      }
+    },
+    {
+      "id": "c9f513d3-8000-4775-9adf-18e79eee25b6",
+      "name": "Pathivada Janardhana rao",
+      "email": "bujjilaxmi010979@gmail.com",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKcCp6NXlpZCIQnrKaFagev-VGTUH2XcCnAvjARVrn3tiglTw=s96-c",
+      "provider": "email",
+      "role": "counselor",
+      "onboardingComplete": true,
+      "firstLoginAt": "2026-05-08T09:10:30.665Z",
+      "lastLoginAt": "2026-05-09T12:25:18.774Z",
+      "loginCount": 5,
+      "userType": "student",
+      "username": "harry",
+      "phone": "+916305569442",
+      "college": "VIT Vellore",
+      "degree": "MBA",
+      "graduationYear": "2026",
+      "city": "VZM",
+      "state": "Andhra Pradesh",
+      "stats": {
+        "eventsAttended": 1,
+        "applicationsSent": 0,
+        "certificatesEarned": 0,
+        "volunteerHours": 0,
+        "eventsCreated": 0,
+        "jobsPosted": 0,
+        "sessionsGiven": 0
+      }
+    },
+    {
+      "id": "12272f34-6590-4890-b915-d50515a91472",
+      "name": "Hermoine",
+      "email": "sai@gmail.com",
+      "image": null,
+      "provider": "email",
+      "role": "counselor",
+      "onboardingComplete": false,
+      "firstLoginAt": "2026-05-08T13:00:45.953Z",
+      "lastLoginAt": "2026-05-08T13:00:46.614Z",
+      "loginCount": 2
+    }
+  ]
+}

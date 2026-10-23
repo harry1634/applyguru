@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "title": "CSE Hackathon",
+      "type": "Hackathon",
+      "category": "Science",
+      "mode": "Hybrid",
+      "date": "2026-05-20",
+      "time": "09:00",
+      "endTime": "18:00",
+      "location": "ANITS",
+      "meetLink": "",
+      "description": "event",
+      "capacity": "",
+      "fee": "100",
+      "tags": "AI,ML,DS",
+      "registrationDeadline": "2026-05-07",
+      "organizerEmail": "pathivadasaiteja.22.csd@anits.edu.in",
+      "organizerName": "A22126551103 PATHIVADASAITEJA",
+      "status": "published",
+      "id": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "createdAt": "2026-05-07T13:11:13.438Z"
+    },
+    {
+      "title": "Walk in interviews",
+      "type": "Event",
+      "category": "Career",
+      "mode": "Offline",
+      "date": "2026-05-14",
+      "time": "09:00",
+      "endTime": "16:00",
+      "location": "Nxtwise, Hyderabad",
+      "meetLink": "",
+      "description": "Walk in drives",
+      "capacity": "50",
+      "fee": "99",
+      "tags": "",
+      "registrationDeadline": "2026-05-13",
+      "organizerEmail": "pathivadasaiteja.22.csd@anits.edu.in",
+      "organizerName": "A22126551103 PATHIVADASAITEJA",
+      "status": "published",
+      "id": "248b53ac-70f1-4158-8be1-ad8af77a4d84",
+      "createdAt": "2026-05-08T09:17:56.861Z"
+    }
+  ]
+}

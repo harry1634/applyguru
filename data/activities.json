@@ -1,0 +1,130 @@
+{
+  "activities": [
+    {
+      "email": "ginny@gmail.com",
+      "type": "event-created",
+      "itemId": "dbdbfbc9-df5a-4e52-8e46-b381b1d9ec7b",
+      "itemTitle": "CSE Hackathon",
+      "itemDetails": "2026-05-15 · Hybrid · Hackathon",
+      "id": "20a0be20-9948-4126-a2df-75a1f54b3e00",
+      "timestamp": "2026-05-07T12:43:59.468Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "event-created",
+      "itemId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "itemTitle": "CSE Hackathon",
+      "itemDetails": "2026-05-20 · Hybrid · Hackathon",
+      "id": "71f9ee8f-2883-4de3-8e1f-a69ce5ada9b6",
+      "timestamp": "2026-05-07T13:11:14.215Z"
+    },
+    {
+      "email": "saiteja242004@gmail.com",
+      "type": "event-registered",
+      "itemId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "itemTitle": "Event Not Found",
+      "itemDetails": "TBD · TBD · Online",
+      "id": "1a0a19c7-8875-4e05-8cab-6f0242f45b5c",
+      "timestamp": "2026-05-07T13:12:54.132Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "event-created",
+      "itemId": "248b53ac-70f1-4158-8be1-ad8af77a4d84",
+      "itemTitle": "Walk in interviews",
+      "itemDetails": "2026-05-14 · Offline · Event",
+      "id": "510b2587-6ce9-42d2-a65a-2428f27a63d2",
+      "timestamp": "2026-05-08T09:17:57.306Z"
+    },
+    {
+      "email": "saiteja242004@gmail.com",
+      "type": "event-registered",
+      "itemId": "248b53ac-70f1-4158-8be1-ad8af77a4d84",
+      "itemTitle": "Walk in interviews",
+      "itemDetails": "14 May 2026 · 09:00 · Offline",
+      "id": "da63b0d5-1ce5-439b-b7cc-d77953f12eb2",
+      "timestamp": "2026-05-08T09:25:08.823Z"
+    },
+    {
+      "email": "saiteja242004@gmail.com",
+      "type": "event-registered",
+      "itemId": "248b53ac-70f1-4158-8be1-ad8af77a4d84",
+      "itemTitle": "Walk in interviews",
+      "itemDetails": "14 May 2026 · 09:00 · Offline",
+      "id": "0ed73131-4614-41a7-b8b5-2b2d2a694b7b",
+      "timestamp": "2026-05-08T10:20:24.961Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "event-registered",
+      "itemId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "itemTitle": "CSE Hackathon",
+      "itemDetails": "20 May 2026 · 09:00 · Hybrid",
+      "id": "5ee9474f-0759-43de-9a48-edc7557df617",
+      "timestamp": "2026-05-09T11:33:10.068Z"
+    },
+    {
+      "email": "bujjilaxmi010979@gmail.com",
+      "type": "event-registered",
+      "itemId": "27700074-0f18-4b21-a219-0304d1e3536d",
+      "itemTitle": "CSE Hackathon",
+      "itemDetails": "20 May 2026 · 09:00 · Hybrid",
+      "id": "d5e72848-50c6-43b5-97f5-e0717df28ec3",
+      "timestamp": "2026-05-09T12:25:50.920Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "job-posted",
+      "itemId": "10d16186-f107-488f-a121-3468bf49c69b",
+      "itemTitle": "Software Engeneering",
+      "itemDetails": "NxtWise · Remote · Internship",
+      "id": "e8489769-2abf-40e2-9277-8659e8d7f247",
+      "timestamp": "2026-05-29T11:52:12.385Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "job-applied",
+      "itemId": "10d16186-f107-488f-a121-3468bf49c69b",
+      "itemTitle": "Software Engeneering",
+      "itemDetails": "NxtWise · Remote · Internship · ₹15,000/month",
+      "id": "552bfa23-4d3a-4a82-b51f-06eed233fa4a",
+      "timestamp": "2026-05-29T11:52:43.741Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "job-applied",
+      "itemId": "10d16186-f107-488f-a121-3468bf49c69b",
+      "itemTitle": "Software Engeneering",
+      "itemDetails": "NxtWise · Remote · Internship · ₹15,000/month",
+      "id": "9ac80a23-88fb-40bd-9066-6a146b053b7c",
+      "timestamp": "2026-05-29T11:59:02.846Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "job-applied",
+      "itemId": "10d16186-f107-488f-a121-3468bf49c69b",
+      "itemTitle": "Software Engeneering",
+      "itemDetails": "NxtWise · Remote · Internship · ₹15,000/month",
+      "id": "54618e69-e16e-4e06-bdc5-18937a37578b",
+      "timestamp": "2026-05-29T11:59:19.996Z"
+    },
+    {
+      "email": "pathivadasaiteja.22.csd@anits.edu.in",
+      "type": "job-applied",
+      "itemId": "10d16186-f107-488f-a121-3468bf49c69b",
+      "itemTitle": "Software Engeneering",
+      "itemDetails": "NxtWise · Remote · Internship · ₹15,000/month",
+      "id": "24f8796c-d8e5-4f62-a820-7549e2eab51b",
+      "timestamp": "2026-05-29T12:12:25.117Z"
+    },
+    {
+      "email": "saiteja242004@gmail.com",
+      "type": "job-applied",
+      "itemId": "10d16186-f107-488f-a121-3468bf49c69b",
+      "itemTitle": "Software Engeneering",
+      "itemDetails": "NxtWise · Remote · Internship · ₹15,000/month",
+      "id": "d13b80e5-3300-40ce-aa9b-5c7637d4cf36",
+      "timestamp": "2026-05-29T13:19:08.372Z"
+    }
+  ]
+}
